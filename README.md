@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hilmi-ali
-- 👀 I’m interested in android
+- 👀 I’m interested in android & web
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
