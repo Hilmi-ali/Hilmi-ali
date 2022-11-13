@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hilmi-ali
 - 👀 I’m interested in android & web
 - 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - Instagram @hielmiali
 
 <!---
 Hilmi-ali/Hilmi-ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
