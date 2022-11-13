@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hilmi-ali
 - 👀 I’m interested in android & web
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning Kotlin 
 - 📫 How to reach me - Instagram @hielmiali
 
 <!---
